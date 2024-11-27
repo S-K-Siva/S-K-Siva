@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full Stack, Artificial Intelligence and Machine Learning<br>👬 I'm looking to collaborate on projects of AI/ML<br>🗣️ Ask me about DSA, Problem Solving<br>🧘 Focusing on Dev and AI/ML<br>🧿Look my Consistency!<br>⚡️ I love to code while having coffee ☕️
+🔭 I'm currently working on Full Stack, Artificial Intelligence and Machine Learning<br>👬 I'm looking to collaborate on projects of AI/ML<br>🗣️ Ask me about DSA, Problem Solving<br>🧘 Focusing on Dev and AI/ML<br>🧿 Backing my Consistency!<br>⚡️ I love to code while having coffee ☕️
 
 
 
