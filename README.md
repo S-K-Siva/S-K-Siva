@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently focusing on myself!<br>👬 I'm looking to collaborate on Freelance works<br>🗣️ Ask me about DSA, Problem Solving<br>🧿 Backing my Consistency!<br>⚡️ I love to code while having coffee ☕️
+🔭 I'm currently focusing on Full Stack!<br>👬 I'm looking to collaborate on Freelance works<br>🗣️ Ask me about DSA, Problem Solving<br>🧿 Backing my Consistency!<br>⚡️ I love to code while having coffee ☕️
 
 
 
