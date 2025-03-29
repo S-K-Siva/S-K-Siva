@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=S-K-Siva&limit=5&theme=calm&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=S-K-Siva&icon=2&color=4)(https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=S-K-Siva&icon=2&color=4)(https://visitcount.itsvg.in)]
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=S-K-Siva)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
